@@ -3,12 +3,16 @@
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,python,html,css,js,tailwindcss,react,vite,sklearn,mysql,pytorch,docker,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,github,githubactions,python,html,css,js,tailwindcss,react,vite,sklearn,mysql,pytorch,tensorflow,docker,aws" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" width="50" title="Excel" alt="Excel"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" title="Streamlit" alt="Streamlit"/>
 </p>
 
 ## 🐍 My Contribution Snake
 
- ![snake gif](https://github.com/raunitArya78/raunitArya78/blob/output/dist/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/raunitArya78/raunitArya78/blob/output/github-snake.svg)
 
 
 ## 📊 GitHub Stats
