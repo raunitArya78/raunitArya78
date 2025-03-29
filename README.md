@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hi+there%2C+I'm+Raunit+Arya!+)](https://git.io/typing-svg)
 
+I'm a passionate developer & tech enthusiast who loves exploring new technologies and solving problems. Whether it's coding, learning, or building, I'm always up for a challenge!
+
+This is my 2nd account. My main account 
+[![Follow Me](https://img.shields.io/badge/Follow%20Me-GitHub-black?style=social&logo=github)](https://github.com/RaunitArya)
+
+
+
 ## 🚀 Technologies & Tools
 
 <p align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 10px; align-items: center; justify-items: center;">
@@ -59,7 +66,7 @@
 
 ## 🌱 What I'm currently learning
 - Advanced Machine Learning and Deep Learning techniques
-- Devops containerization
+- Devops 
 - Langchain
 - Web development with JavaScript frameworks
 
