@@ -37,12 +37,12 @@ This is my 2nd account. My main account
   <!-- Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" alt="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=sklearn alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Tech Stack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb,aws" alt="Tech Stack"/>
-  <img src="https://skillicons.dev/icons?i=docker alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Tech Stack"/>
 
   <!-- Additional Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" title="Excel" alt="Excel" style="background:#217346;padding:5px;border-radius:5px"/>
