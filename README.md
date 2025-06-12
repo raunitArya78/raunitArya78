@@ -59,7 +59,7 @@ This is my 2nd account. My main account
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raunitArya78&show_icons=true&theme=radical" alt="Raunit's GitHub stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitArya78&theme=radical" alt="Raunit's streak stats"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitArya78&theme=radical" alt="Raunit's streak stats"/>
 </p>
 
 ## 🔥 Recent Activity
