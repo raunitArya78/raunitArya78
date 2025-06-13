@@ -62,6 +62,9 @@ This is my 2nd account. My main account
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitArya78&theme=radical" alt="Raunit's streak stats"/>
 </p>
 
+## Recent Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raunitarya78&theme=radical&repo=linkedin_clone)](https://github.com/raunitArya78/linkedin_clone)
+
 ## 🔥 Recent Activity
 
 <!-- GitHub Activity Graph -->
