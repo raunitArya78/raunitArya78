@@ -120,6 +120,7 @@ This is my 2nd account. My main account
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
   <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" width="48" title="Jupyter"/>
+  <img src="https://devicon-website.vercel.app/api/kaggle/original-wordmark.svg" width="48" title="Kaggle"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -131,7 +132,6 @@ This is my 2nd account. My main account
 <p align="jsutify">
   <img src="https://skillicons.dev/icons?i=fastapi,appwrite,selenium" alt="Other Tools"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" title="Streamlit"/>
-  <img src="https://devicon-website.vercel.app/api/kaggle/original-wordmark.svg" width="48" title="Kaggle"/>
 </p>
 
 
