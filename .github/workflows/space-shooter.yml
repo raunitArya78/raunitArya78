@@ -1,23 +1,31 @@
-name: Update Space Shooter Game
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
-
+name: GitHub Space Shooter
 permissions:
   contents: write
 
-jobs:
-  update-game:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 2  # This is crucial!
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-      - uses: czl9707/gh-space-shooter@v2
+jobs:
+  shoot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Space Shooter
+        uses: zane/GitHubSpaceShooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
+          username: raunitArya78
+          output-path: space-shooter.gif
+          strategy: random
+          fps: 40
+          commit-message: "Update GitHub Space Shooter GIF"
+
+      - name: Push output
+        run: |
+          git add space-shooter.gif
+          git commit -m "Update GitHub Space Shooter GIF" || echo "Nothing to commit"
+          git push
